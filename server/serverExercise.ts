@@ -1,3 +1,4 @@
+/*
 import {email, z} from "zod";
 import express from "express";
 import { error } from "console";
@@ -96,3 +97,4 @@ app.post("/users", (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server is running on port: ${PORT}`);
 });
+*/
